@@ -1,0 +1,2870 @@
+# Translation of Themes - VW Automobile Lite in Russian
+# This file is distributed under the same license as the Themes - VW Automobile Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-29 09:26:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - VW Automobile Lite\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Our Automobile WordPress Theme is designed to be stylish and classy, much like all our beloved cars. This exclusive theme is developed especially for car dealership, motorhome, travel trailer, lifts, tractors, car dealers, car resellers, mechanic workshop, auto motor retailers forklift, campers, lift trucks, snow motorcycle, motorbike, car booking, rent a car, rent bike, selling, truck rental, Start a trucking haulage business, tow truck business, freight sevice, commute service, Windshield Repairing, Headlight Restoration, auto parts store, car repair shop, tyre services, engine maintenance, towing services, auto mechanic firm, collision center, CAR AC Repair, Wheel alignment services, vehicle maintenance, agriculture equipment and even aircrafts, jets, side-by-side, ATV, utilities ATV,  serviceman, RVs helicopters, turboprops, charter, taxi cab ompany, food truck, After Market Car Parts, bus shuttle service, airplanes, car washing, car rental, buses, car service, Car AMC, Auto Detail Servicing, car accessories store, car sale, auto mechanical workshops, Auto mechanic, car wash, auto painting and Aerotrader businesses. We aid this multi-purpose responsive theme while keeping the motor-heads in mind and what will appeal to the people the most. Our WordPress theme makes the use of secure and clean codes, you can easily customize our theme as per your wishes. You can even add or remove anything that you may or may not like. With ample of personalization options and features like optimized codes, call to action button (CTA), beautiful banners, lock Editor Styles, global font and color controls Gutenberg compatible, useful shortcodes, numerous styling options, it is the best professional WordPress theme to grab. You will get an interactive demo, responsive slider, multiple post formats, quick page speed, display options, SEO friendly features, Block Editor Styles, social media icons, and a bunch of other phenomenal features with this supreme theme. Furthermore, built on Bootstrap framework, the theme will ease the web development. No matter what kind of automobile industry or services you offer, our Automobile theme is made for the gear-heads like you. Whether you sell used car, deal in motorbikes, motorcycles, small cars, trucks, car rental, bus service, scooters, snowmobile, cab service, automobile blogger, own a car review website, run a garage, repair service, own a showroom, run a driving school and etc. this highly interactive, WooCommerce compatible, user-friendly, Four Columns layout and multipurpose ecommerce theme will fit perfectly for you. All your long research and time invested in finding the best themes end with us, as we bring you a theme like no other. Our Free Automobile WordPress Theme is fresh, special and distinct in every aspect. It guarantees to give your website a professional look which you desperately wanted. Check Demo at: https://www.vwthemes.net/vw-automobile-theme/"
+msgstr "Наша тема WordPress - Automobile, сделана стильной и класной, как и все наши любимые машины. Эта эксклюзивная тема разработана специально для автодилеров, домах на колесах, трейлеров, подъемников, тракторов, грузоподъемников, кэмперов, тягачей, снегохода, снежных мотощиклов, байков, сельскохозяйственного оборудования и даже самолеты, джетов, вездеходов , оборудование для вездеходов, вертолетов, турбовинтовых, чартерных, авиационные и аэротрейдеры. Наша бесплатная WordPress тема настолько многофункциональна, что вам не захочется покупать что-то другое. Имея множество опций персонализации, оптимизированный код, кнопку призыва к действию (CTA), красивые баннеры, полезные короткие коды, многочисленные варианты стилизации, это лучшая профессиональная тема WordPress для захвата рынка. Вы получите интерактивную демонстрацию, адаптивный слайдер, быструю скорость страницы, параметры отображения, удобные для SEO функции, значки социальных сетей и множество других феноменальных функций с этой супер темой. Кроме того, она создана на основе Bootstrap, тема облегчит создание веб-сайтов. Независимо от того, какую автомобильную промышленность или услуги вы предлагаете, наша Automobile тема сделана для таких любителей машин, как вы. Если вы продаете подержанный автомобиль, занимаетесь мотоциклами, байками, небольшими автомобилями, грузовиками, скутерами, снегоходами, обслуживанием такси, автомобильным блоггером, ведете автомобильный обзор, управляете гаражом, ремонтом, владеете выставочным залом, управляете автошколами и т. д. Все ваши длительные исследования и время, потраченные на поиск лучших тем, заканчиваются с нами, поскольку мы предоставляем вам лучшую тему, как никто другой. Наша бесплатная WordPress тема для автомобилей является свежей, особенной и отличной во всех аспектах. Она гарантирует, что ваш веб-сайт будет выглядеть профессионально, а это то чего вы отчаянно хотели. Ознакомьтесь с демо: https://www.vwthemes.net/vw-automobile-theme/"
+
+#. Theme Name of the theme
+#: inc/block-patterns/block-patterns.php:16
+#, gp-priority: high
+msgid "VW Automobile Lite"
+msgstr "VW Automobile Lite"
+
+#: inc/customizer.php:69
+msgid "Header Image Position"
+msgstr "Позиция изображения заголовка"
+
+#: inc/getting-started/getting-started.php:209
+msgid "Click on Patterns Tab >> Click on Theme Name >> Click on Sections >> Publish."
+msgstr "Нажмите вкладку Паттерны >> нажмите Название темы >> нажмите Разделы >> Опубликовать."
+
+#: inc/getting-started/getting-started.php:204
+msgid "Click on Below Add new page button >> Click on \"+\" Icon."
+msgstr "Нажмите ниже кнопку Добавить новую страницу >> Нажмите на \"+\" значка."
+
+#: inc/customizer.php:2612
+msgid "Show / Hide Related product"
+msgstr "Сопутствующий товар: показать/скрыть"
+
+#: inc/customizer.php:2373
+msgid "Show / Hide Single Product Sidebar"
+msgstr "Область виджетов отдельного товара: показать/скрыть"
+
+#: inc/customizer.php:2344
+msgid "Show / Hide Shop Page Sidebar"
+msgstr "Область виджетов страницы магазина: показать/скрыть"
+
+#: inc/customizer.php:2067
+msgid "Show / Hide Pre-Loader"
+msgstr "Анимация загрузки: показать/скрыть"
+
+#: inc/customizer.php:2045
+msgid "Show / Hide Animations"
+msgstr "Анимация: показать/скрыть"
+
+#: inc/customizer.php:2034
+msgid "Show / Hide Page Breadcrumb"
+msgstr "Навигационные цепочки страницы: показать/скрыть"
+
+#: inc/customizer.php:1784
+msgid "Show / Hide Post Navigation"
+msgstr "Навигация записи: показать/скрыть"
+
+#: inc/customizer.php:1763
+msgid "Show / Hide Tags"
+msgstr "Метки: показать/скрыть"
+
+#: inc/customizer.php:1753
+msgid "Show / Hide Category"
+msgstr "Рубрика: показать/скрыть"
+
+#: inc/customizer.php:1742
+msgid "Show / Hide Breadcrumb"
+msgstr "Навигационная цепочка: показать/скрыть"
+
+#: inc/customizer.php:1732
+msgid "Show / Hide Time"
+msgstr "Время: показать/скрыть"
+
+#: inc/customizer.php:1709 inc/customizer.php:1928
+msgid "Show / Hide Comments"
+msgstr "Комментарии: показать/скрыть"
+
+#: inc/customizer.php:1686 inc/customizer.php:1905
+msgid "Show / Hide Author"
+msgstr "Автор: показать/скрыть"
+
+#: inc/customizer.php:1663
+msgid "Show / Hide Date"
+msgstr "Дата: показать/скрыть"
+
+#: inc/customizer.php:1591
+msgid "Show / Hide Related Post"
+msgstr "Связанная запись: показать/скрыть"
+
+#: inc/customizer.php:1388
+msgid "Display Blog Posts"
+msgstr "Отображение записей в блоге"
+
+#: inc/customizer.php:1274
+msgid "Show / Hide Featured Image"
+msgstr "Изображение записи: показать/скрыть"
+
+#: inc/customizer.php:1264 inc/customizer.php:1882
+msgid "Show / Hide Post Date"
+msgstr "Дата записи: показать/скрыть"
+
+#: inc/customizer.php:1006
+msgid "Show / Hide Footer Social Icon"
+msgstr "Значок соцсети в подвале: показать/скрыть"
+
+#: inc/customizer.php:589
+msgid "Show / Hide Slider Image Overlay"
+msgstr "Наложение изображения слайдера: показать/скрыть"
+
+#: inc/customizer.php:80 inc/customizer.php:933
+msgid "Bottom Right"
+msgstr "Внизу справа"
+
+#: inc/customizer.php:79 inc/customizer.php:932
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/customizer.php:78 inc/customizer.php:931
+msgid "Bottom Left"
+msgstr "Внизу слева"
+
+#: inc/customizer.php:74 inc/customizer.php:927
+msgid "Top Right"
+msgstr "Вверху справа"
+
+#: inc/customizer.php:73 inc/customizer.php:926
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/customizer.php:72 inc/customizer.php:925
+msgid "Top Left"
+msgstr "Вверху слева"
+
+#: inc/customizer.php:922
+msgid "Footer Image Position"
+msgstr "Позиция изображения подвала"
+
+#: inc/customizer.php:2094
+msgid "Preloader Background Image"
+msgstr "Фоновое изображение анимации загрузки"
+
+#: inc/customizer.php:58
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: inc/customizer.php:1031
+msgid "Copyright Background Color"
+msgstr "Цвет фона авторского права"
+
+#: inc/customizer.php:1022
+msgid "Show / Hide Copyright"
+msgstr "Авторское право: показать/скрыть"
+
+#: inc/customizer.php:893
+msgid "Show / Hide Footer"
+msgstr "Подвал: показать/скрыть"
+
+#: inc/customizer.php:947
+msgid "scroll"
+msgstr "прокрутка"
+
+#: inc/customizer.php:946
+msgid "fixed"
+msgstr "зафиксировать"
+
+#: inc/customizer.php:944
+msgid "Footer Background Attatchment"
+msgstr "Прикрепление фона подвала"
+
+#: inc/customizer.php:306
+msgid "Menu Text Transform"
+msgstr "Преобразование текста меню"
+
+#: inc/customizer.php:295
+msgid "900"
+msgstr "900"
+
+#: inc/customizer.php:294
+msgid "800"
+msgstr "800"
+
+#: inc/customizer.php:293
+msgid "700"
+msgstr "700"
+
+#: inc/customizer.php:292
+msgid "600"
+msgstr "600"
+
+#: inc/customizer.php:291
+msgid "500"
+msgstr "500"
+
+#: inc/customizer.php:290
+msgid "400"
+msgstr "400"
+
+#: inc/customizer.php:289
+msgid "300"
+msgstr "300"
+
+#: inc/customizer.php:288
+msgid "200"
+msgstr "200"
+
+#: inc/customizer.php:287
+msgid "100"
+msgstr "100"
+
+#: inc/customizer.php:259
+msgid "Menus Settings"
+msgstr "Настройки меню"
+
+#: inc/customizer.php:1627
+msgid "Related Posts Excerpt length"
+msgstr "Связанные записи: длина отрывка"
+
+#: inc/customizer.php:1543
+msgid "Button Letter Spacing"
+msgstr "Межбуквенное расстояние кнопки"
+
+#: inc/customizer.php:1344
+msgid "Featured Image Custom Height"
+msgstr "Изображение записи с произвольной высотой"
+
+#: inc/customizer.php:1330
+msgid "Featured Image Custom Width"
+msgstr "Изображение записи с произвольной шириной"
+
+#: inc/customizer.php:1321
+msgid "Custom Image Size"
+msgstr "Пользовательский размер изображения"
+
+#: inc/customizer.php:1317
+msgid "Blog Post Featured Image Dimension"
+msgstr "Размер изображение записи блога"
+
+#: inc/customizer.php:326
+msgid "Zoom In"
+msgstr "Увеличение"
+
+#: inc/customizer.php:325
+msgid "None"
+msgstr "Отсутствует"
+
+#: inc/customizer.php:323
+msgid "Menu Item Hover Style"
+msgstr "Стиль пункта меню при наведении"
+
+#: inc/customizer.php:2383
+msgid "Single Product Sidebar Layout"
+msgstr "Макет области виджетов отдельного товара"
+
+#: inc/customizer.php:1392 inc/customizer.php:1954
+msgid "Without Blocks"
+msgstr "Без блоков"
+
+#: inc/customizer.php:1391 inc/customizer.php:1953
+msgid "Into Blocks"
+msgstr "В блоках"
+
+#: inc/customizer.php:599
+msgid "Slider Image Overlay Color"
+msgstr "Цвет наложения изображения слайдера"
+
+#: template-parts/single-post-layout.php:48
+msgid "Categories:"
+msgstr "Рубрики:"
+
+#: inc/customizer.php:2354
+msgid "Shop Page Sidebar Layout"
+msgstr "Макет области виджетов страницы магазина"
+
+#: inc/customizer.php:1859
+msgid "Grid Layout Settings"
+msgstr "Настройки макета сетки"
+
+#: inc/customizer.php:310 inc/customizer.php:1568
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/customizer.php:309 inc/customizer.php:1567
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: inc/customizer.php:308 inc/customizer.php:1566
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/customizer.php:1564
+msgid "Button Text Transform"
+msgstr "Преобразование текста кнопки"
+
+#: inc/customizer.php:1480
+msgid "Button Font Size"
+msgstr "Размер шрифта кнопки"
+
+#: inc/customizer.php:911
+msgid "Footer Background Image"
+msgstr "Фоновое изображение подвала"
+
+#: functions.php:205
+msgid "Appears on right side footer"
+msgstr "Появится в подвале справа"
+
+#: functions.php:204
+msgid "Footer Social Icon"
+msgstr "Значки соцсетей в подвале"
+
+#: inc/customizer.php:990
+msgid "Footer Top Bottom Padding"
+msgstr "Внутренний отступ сверху и снизу подвала"
+
+#: inc/customizer.php:403
+msgid "Add Slider Shortcode"
+msgstr "Добавить шорткод слайдера"
+
+#: inc/customizer.php:394
+msgid "Advance slider"
+msgstr "Расширенный слайдер"
+
+#: inc/customizer.php:393
+msgid "Default slider"
+msgstr "Слайдер по умолчанию"
+
+#: inc/customizer.php:390
+msgid "Slider Type"
+msgstr "Тип слайдера"
+
+#: inc/customizer.php:975
+msgid "Footer Widget Content"
+msgstr "Содержимое виджета подвала"
+
+#: inc/logo-resizer.php:51
+msgid "Logo Margin"
+msgstr "Внешний отступ логотипа"
+
+#: inc/logo-resizer.php:37
+msgid "Logo Padding"
+msgstr "Внутренний отступ логотипа"
+
+#: inc/customizer.php:2296
+msgid "Toggle Button Bg Color"
+msgstr "Цвет фона кнопки переключения"
+
+#: inc/customizer.php:2055
+msgid "Reset All Settings"
+msgstr "Сбросить все настройки"
+
+#: inc/customizer.php:2046
+msgid "Here you can disable overall site animation effect"
+msgstr "Здесь можно отключить общий эффект анимации сайта"
+
+#: inc/customizer.php:1986
+msgid "Others Settings"
+msgstr "Другие настройки"
+
+#: inc/customizer.php:959
+msgid "Footer Widget Heading"
+msgstr "Заголовок виджета подвала"
+
+#: inc/customizer.php:647
+msgid ""
+"<p>1. More options for about section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for about section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела О нас.</p>\n"
+"\t\t\t<p>2. Неограниченные варианты изображений.</p>\n"
+"\t\t\t<p>3. Варианты цвета для раздела О нас.</p>"
+
+#: inc/customizer.php:636
+msgid "About Section"
+msgstr "Раздел О нас"
+
+#: inc/customizer.php:607 inc/customizer.php:637 inc/customizer.php:667
+#: inc/customizer.php:697 inc/customizer.php:792 inc/customizer.php:822
+#: inc/customizer.php:852
+msgid "<p class=\"premium-opt\">Premium Theme Features</p>"
+msgstr "<p class=\"premium-opt\">Свойства премиум-темы</p>"
+
+#: inc/customizer.php:369
+msgid "Free theme has 3 slides options, For unlimited slides and more options </br> <a class=\"go-pro-btn\" target=\"blank\" href=\"https://www.vwthemes.com/themes/automobile-wordpress-theme/\">GO PRO</a>"
+msgstr "Бесплатная тема имеет 3 варианта слайдов. Для неограниченного количества слайдов и других вариантов </br> <a class=\"go-pro-btn\" target=\"blank\" href=\"https://www.vwthemes.com/themes/automobile-wordpress-theme/\">ПЕРЕЙТИ НА ПРО</a>"
+
+#: inc/customizer.php:368
+msgid "Slider Section"
+msgstr "Раздел Слайдер"
+
+#: inc/customizer.php:362
+msgid "Sub Menus Hover Color"
+msgstr "Цвет подменю при наведении"
+
+#: inc/customizer.php:353
+msgid "Sub Menus Color"
+msgstr "Цвет подменю"
+
+#: inc/customizer.php:344
+msgid "Menus Hover Color"
+msgstr "Цвет меню при наведении"
+
+#: inc/customizer.php:335
+msgid "Menus Color"
+msgstr "Цвет меню"
+
+#: inc/customizer.php:39
+msgid "Homepage Settings"
+msgstr "Настройки главной страницы"
+
+#: inc/custom-controls.php:106
+msgid "RESET"
+msgstr "СБРОС"
+
+#: inc/custom-controls.php:105
+msgid "Please Refresh the customizer after reset the settings."
+msgstr "Обновите настройки темы после сброса настроек."
+
+#: inc/custom-controls.php:104
+msgid "After click on the reset button, it will reset the default settings and previous changes that you have done and the data will be lost."
+msgstr "После нажатия на кнопку сброса произойдет сброс настроек по умолчанию и предыдущих изменений, в результате чего данные будут потеряны."
+
+#: inc/custom-controls.php:103
+msgid "Are you sure to reset the Changes ? "
+msgstr "Вы уверены, что сбросили настройки Changes ? "
+
+#: inc/custom-controls.php:98
+msgid "Reset"
+msgstr "Сброс"
+
+#: inc/getting-started/getting-started.php:357
+msgid "2. Go To Dashboard >> Ibtana Settings >> Woocommerce Templates"
+msgstr "2. Перейдите в консоль >> Настройки Ibtana >> Шаблоны Woocommerce"
+
+#: inc/typography/ctypo.php:41
+msgid "Global Color"
+msgstr "Глобальный цвет"
+
+#: functions.php:107
+msgid "UPGRADE PRO"
+msgstr "Обновиться до Pro"
+
+#: functions.php:106
+msgid "VIEW DEMO"
+msgstr "ПРОСМОТР ДЕМО"
+
+#: inc/customizer.php:449
+msgid "Show / Hide Slider Title"
+msgstr "Название слайдера: показать/скрыть"
+
+#: inc/customizer.php:461
+msgid "Show / Hide Slider Content"
+msgstr "Содержимое слайдера: показать/скрыть"
+
+#: inc/customizer.php:1851
+msgid "100%"
+msgstr "100%"
+
+#: inc/customizer.php:1849
+msgid "Enter a value in %. Example:50%"
+msgstr "Введите значение в %. Пример: 50%"
+
+#: inc/customizer.php:1848
+msgid "Comment Form Width"
+msgstr "Ширина формы комментариев"
+
+#. Template Name of the theme
+msgid "Ibtana Page Template"
+msgstr "Шаблон страницы Ibtana"
+
+#: inc/customizer.php:1835
+msgid "Add Comment Button Text"
+msgstr "Текст кнопки Добавить комментарий"
+
+#: inc/customizer.php:1821
+msgid "Add Comment Title"
+msgstr "Добавить название комментария"
+
+#: comments.php:79 inc/customizer.php:1837
+msgid "Post Comment"
+msgstr "Отправить комментарий"
+
+#: comments.php:78 inc/customizer.php:1823
+msgid "Leave a Reply"
+msgstr "Оставить ответ"
+
+#: inc/customizer.php:2507
+msgid "Products Button Padding Left Right"
+msgstr "Внутренний отступ справа и слева кнопки товаров"
+
+#: inc/customizer.php:2493
+msgid "Products Button Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу кнопки товаров"
+
+#: inc/customizer.php:174
+msgid "Search Placeholder Text"
+msgstr "Текст-заглушка для поиска"
+
+#: inc/customizer.php:169 searchform.php:11
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer.php:2580
+msgid "Sale Padding Left Right"
+msgstr "Внутренний отступ сверху и снизу распродажи"
+
+#: inc/customizer.php:2566
+msgid "Sale Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу распродажи"
+
+#: inc/customizer.php:75 inc/customizer.php:928 inc/customizer.php:962
+#: inc/customizer.php:978 inc/customizer.php:2542
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer.php:2539
+msgid "Sale Badge Position"
+msgstr "Позиция баннера распродажи"
+
+#: inc/customizer.php:284
+msgid "Menus Font Weight"
+msgstr "Толщина шрифта меню"
+
+#: inc/customizer.php:2145
+msgid "No Results Page Settings"
+msgstr "Настройки страницы Без результатов"
+
+#: inc/customizer.php:1300
+msgid "Featured Image Box Shadow"
+msgstr "Тень блока изображения записи"
+
+#: inc/customizer.php:902
+msgid "Footer Background Color"
+msgstr "Цвет фона подвала"
+
+#: inc/customizer.php:503
+msgid "Slider Content Padding Left Right"
+msgstr "Внутренний отступ содержимого слайдера слева и справа"
+
+#: inc/customizer.php:491 inc/customizer.php:506
+msgid "50%"
+msgstr "50%"
+
+#: inc/customizer.php:489 inc/customizer.php:504
+msgid "Enter a value in %. Example:20%"
+msgstr "Введите значение в %. Пример: 20%"
+
+#: inc/customizer.php:488
+msgid "Slider Content Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу содержимого слайдера"
+
+#: inc/customizer.php:1284
+msgid "Featured Image Border Radius"
+msgstr "Радиус рамки изображения записи"
+
+#: inc/customizer.php:268
+msgid "Menus Font Size"
+msgstr "Размер шрифта меню"
+
+#: inc/customizer.php:1050
+msgid "Copyright Font Size"
+msgstr "Размер шрифта авторского права"
+
+#: inc/customizer.php:2552
+msgid "Sale Font Size"
+msgstr "Размер шрифта распродажи"
+
+#: inc/customizer.php:2522
+msgid "Products Button Border Radius"
+msgstr "Радиус рамки кнопки товаров"
+
+#: inc/customizer.php:1376 inc/customizer.php:1773 inc/customizer.php:1938
+msgid "Add the seperator for meta box. Example: \"|\", \"/\", etc."
+msgstr "Добавьте разделитель для мета-поля. Пример: \"|\", \"/\", и т. д."
+
+#: inc/customizer.php:1375 inc/customizer.php:1772 inc/customizer.php:1937
+msgid "Add Meta Separator"
+msgstr "Добавить разделитель мета"
+
+#: inc/logo-resizer.php:102
+msgid "Site Tagline Font Size"
+msgstr "Размер шрифта краткого описания сайта"
+
+#: inc/logo-resizer.php:76
+msgid "Site Title Font Size"
+msgstr "Размер шрифта названия сайта"
+
+#: inc/customizer.php:2595
+msgid "Sale Border Radius"
+msgstr "Радиус рамки распродажи"
+
+#: inc/getting-started/plugin-activation.php:235
+msgid "It is recommended that you install the Ibtana - Ecommerce Product Addons plugin to show advance Products blocks and templates on pages"
+msgstr "Рекомендуется установить плагин Ibtana - Ecommerce Product Addons, чтобы на страницах отображались блоки и шаблоны \"Товары\""
+
+#: inc/getting-started/getting-started.php:361
+msgid "You can create a template as you like."
+msgstr "Вы можете создать шаблон, как вам нравится."
+
+#: inc/getting-started/getting-started.php:359
+msgid "Woocommerce Templates"
+msgstr "Шаблоны Woocommerce"
+
+#: inc/getting-started/getting-started.php:355
+msgid "3. Woocommerce"
+msgstr "3. WooCommerce"
+
+#: inc/getting-started/getting-started.php:354
+msgid "2. Ibtana - Ecommerce Product Addons."
+msgstr "2. Ibtana - Ecommerce Product Addons."
+
+#: inc/getting-started/getting-started.php:353
+msgid "1. Ibtana - WordPress Website Builder "
+msgstr "1. Ibtana - WordPress Website Builder "
+
+#: inc/getting-started/getting-started.php:352
+msgid "1. First you need to activate these plugins"
+msgstr "1. Сначала вам нужно активировать эти плагины"
+
+#: inc/getting-started/getting-started.php:351
+msgid "Follow the below instructions to setup Products Templates."
+msgstr "Следуйте приведённым ниже инструкциям, чтобы установить шаблоны товара."
+
+#: inc/getting-started/getting-started.php:348
+msgid "Woocommerce Products Blocks"
+msgstr "Блоки товаров Woocommerce"
+
+#: inc/getting-started/getting-started.php:280
+msgid "Ibtana Settings"
+msgstr "Настройки Ibtana"
+
+#: inc/getting-started/getting-started.php:277
+msgid "Gutunberg Blocks"
+msgstr "Блоки Gutenberg"
+
+#: inc/getting-started/getting-started.php:65
+#: inc/getting-started/getting-started.php:191
+msgid "Skip"
+msgstr "Пропустить"
+
+#: inc/getting-started/getting-started.php:41
+msgid "Woocommerce Product Addons"
+msgstr "Дополнения к товару Woocommerce"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Setup With Gutunberg Block"
+msgstr "Установка с блоком Gutunberg"
+
+#: inc/getting-started/plugin-activation.php:146
+#: inc/getting-started/plugin-activation.php:340
+msgid "Activate %s Now"
+msgstr "Активировать %s сейчас"
+
+#: inc/getting-started/plugin-activation.php:129
+#: inc/getting-started/plugin-activation.php:323
+msgid "Install & Activate"
+msgstr "Установить и активировать"
+
+#: inc/getting-started/plugin-activation.php:127
+#: inc/getting-started/plugin-activation.php:321
+msgid "Install %s Now"
+msgstr "Установить %s сейчас"
+
+#: inc/getting-started/plugin-activation.php:53
+#: inc/getting-started/plugin-activation.php:247
+msgid "Error"
+msgstr "Ошибка"
+
+#: inc/getting-started/plugin-activation.php:52
+#: inc/getting-started/plugin-activation.php:246
+msgid "Activating"
+msgstr "Активация"
+
+#: inc/getting-started/plugin-activation.php:51
+#: inc/getting-started/plugin-activation.php:245
+msgid "Installing"
+msgstr "Установка"
+
+#: inc/getting-started/plugin-activation.php:41
+msgid "It is recommended that you install the Ibtana - WordPress Website Builder plugin to show advance blocks and templates on pages"
+msgstr "Рекомендуется установить плагин Ibtana - WordPress Website Builder для отображения на страницах продвинутых блоков и шаблонов"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s был успешно установлен."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s был успешно установлен и активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: inc/getting-started/plugin-activation.php:148
+#: inc/getting-started/plugin-activation.php:342
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестно"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Чтобы активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Чтобы активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Чтобы активировать <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновления <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/getting-started/plugin-activation.php:151
+#: inc/getting-started/plugin-activation.php:345
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин был успешно активирован:"
+msgstr[1] "Эти плагина были успешно активированы:"
+msgstr[2] "Эти плагинов были успешно активированы:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Этот рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Эти рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Эти рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин для максимальной совместимости с темой должен быть обновлен на последюю версию: %1$s."
+msgstr[1] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+msgstr[2] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующих плагинов: %1$s."
+msgstr[2] "Эта тема рекомендует следующих плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующих плагинов: %1$s."
+msgstr[2] "Эта тема требует следующих плагинов: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагинов."
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: inc/tgm/tgm.php:24
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: inc/getting-started/plugin-activation.php:232 inc/tgm/tgm.php:17
+msgid "Ibtana - Ecommerce Product Addons"
+msgstr "Ibtana - Ecommerce Product Addons"
+
+#: inc/getting-started/plugin-activation.php:38 inc/tgm/tgm.php:10
+msgid "Ibtana - WordPress Website Builder"
+msgstr "Ibtana - WordPress Website Builder"
+
+#: inc/customizer.php:2085
+msgid "Pre-Loader Border Color"
+msgstr "Цвет рамки анимации загрузки"
+
+#: inc/customizer.php:2076
+msgid "Pre-Loader Background Color"
+msgstr "Цвет фона анимации загрузки"
+
+#: inc/customizer.php:1719
+msgid "Add Time Icon"
+msgstr "Добавить значок времени"
+
+#: functions.php:135
+msgid "Appears on Blog Page sidebar"
+msgstr "Появляется в области виджетов страницы блога"
+
+#: functions.php:134
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: inc/getting-started/getting-started.php:134
+msgid "Social Icon settings"
+msgstr "Настройка значков соцсети"
+
+#: inc/getting-started/getting-started.php:206
+msgid "Add New Page"
+msgstr "Добавить новую страницу"
+
+#: inc/getting-started/getting-started.php:203
+msgid "Follow the below instructions to setup Home page with Block Patterns."
+msgstr "Следуйте приведённым ниже инструкциям, чтобы установить главную страницу с паттерном блока."
+
+#: inc/getting-started/getting-started.php:201
+msgid "Block Patterns"
+msgstr "Паттерны блока"
+
+#: inc/getting-started/getting-started.php:38
+msgid "Setup With Customizer"
+msgstr "Установка с помощью Настройки темы"
+
+#: inc/getting-started/getting-started.php:39
+msgid "Setup With Block Pattern"
+msgstr "Установка с паттерном блока"
+
+#: functions.php:105
+msgid "GET STARTED"
+msgstr "НАЧАЛО РАБОТЫ"
+
+#: inc/block-patterns/block-patterns.php:27
+msgid "Banner Section"
+msgstr "Раздел Баннер"
+
+#: inc/customizer.php:1696 inc/customizer.php:1915
+msgid "Add Comments Icon"
+msgstr "Добавить значок комментариев"
+
+#: inc/customizer.php:1673 inc/customizer.php:1892
+msgid "Add Author Icon"
+msgstr "Добавить значок автора"
+
+#: inc/customizer.php:1650 inc/customizer.php:1869
+msgid "Add Post Date Icon"
+msgstr "Значок Добавить дату записи"
+
+#: inc/getting-started/getting-started.php:479
+msgid "Enable Disable Options On All Sections, Logo"
+msgstr "Выключить/отключить настройки для всех разделов, логотипа"
+
+#: inc/getting-started/getting-started.php:474
+msgid "Allow To Set Site Title, Tagline, Logo"
+msgstr "Разрешить установку названия, краткого описания, логотипа сайта"
+
+#: inc/getting-started/getting-started.php:469
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: inc/getting-started/getting-started.php:464
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: inc/getting-started/getting-started.php:459
+msgid "Global Color Option"
+msgstr "Настройка глобального цвета"
+
+#: inc/getting-started/getting-started.php:454
+msgid "Color Pallete For Particular Sections"
+msgstr "Цветовая палитра для отдельных разделов"
+
+#: inc/getting-started/getting-started.php:436
+msgid "10"
+msgstr "10"
+
+#: inc/getting-started/getting-started.php:435
+msgid "2"
+msgstr "2"
+
+#: inc/getting-started/getting-started.php:434
+msgid "Theme sections"
+msgstr "Разделы темы"
+
+#: inc/getting-started/getting-started.php:172
+msgid " Once you are done with this, then follow the"
+msgstr " Как только вы закончите с этим, сделайте следующее"
+
+#: inc/getting-started/getting-started.php:170
+msgid "Select the option of Static Page, now select the page you created to be the homepage, while another page to be your default page."
+msgstr "Выберите вариант Статическая страница, теперь выберите страницу, которую вы создали в качестве главной страницы, а другую страницу — в качестве страницы по умолчанию."
+
+#: inc/getting-started/getting-started.php:169
+msgid " Settings >> Reading "
+msgstr " Настройки >> Чтение "
+
+#: inc/getting-started/getting-started.php:166
+msgid "Name it as \"Home\" then select the template \"Custom Home Page\"."
+msgstr "Назовите как \"Главная\", затем выберите шаблон \"Пользовательская главная страница\"."
+
+#: inc/getting-started/getting-started.php:164
+msgid " Dashboard >> Pages >> Add New Page"
+msgstr " Консоль >> Страницы >> Добавить новую страницу"
+
+#: inc/getting-started/getting-started.php:163
+msgid "1. Create a new page :"
+msgstr "1. Создайте новую страницу:"
+
+#: inc/getting-started/getting-started.php:140
+#: inc/getting-started/getting-started.php:237
+#: inc/getting-started/getting-started.php:307
+msgid "Post settings"
+msgstr "Настройки записи"
+
+#: inc/icon-picker.php:19
+msgctxt "placeholder"
+msgid "Icon"
+msgstr "Значок"
+
+#: inc/customizer.php:1809
+msgid "NEXT"
+msgstr "ДАЛЕЕ"
+
+#: inc/customizer.php:1796
+msgid "PREVIOUS"
+msgstr "НАЗАД"
+
+#: inc/customizer.php:1794 inc/customizer.php:1807
+msgid "Post Navigation Text"
+msgstr "Текст навигации по записям"
+
+#: inc/customizer.php:1640
+msgid "Single Post Settings"
+msgstr "Настройки отдельной записи"
+
+#: inc/customizer.php:2478
+msgid "Products Border Radius"
+msgstr "Радиус рамки товаров"
+
+#: inc/customizer.php:2461
+msgid "Products Box Shadow"
+msgstr "Тень блока товаров"
+
+#: inc/customizer.php:2445
+msgid "Products Padding Left Right"
+msgstr "Внутренний отступ слева и справа товара"
+
+#: inc/customizer.php:2431
+msgid "Products Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу товаров"
+
+#: inc/customizer.php:2414
+msgid "Products Per Row"
+msgstr "Товар на строку"
+
+#: inc/customizer.php:2398 inc/customizer.php:2415
+msgid "Display on shop page"
+msgstr "Отображение на странице магазина"
+
+#: inc/customizer.php:2397
+msgid "Products Per Page"
+msgstr "Товаров на странице"
+
+#: inc/customizer.php:2328 inc/getting-started/getting-started.php:143
+#: inc/getting-started/getting-started.php:240
+#: inc/getting-started/getting-started.php:310
+msgid "WooCommerce Layout"
+msgstr "Макет WooCommerce"
+
+#: inc/customizer.php:1445
+msgid "Older Posts/Newer Posts"
+msgstr "Старые записи/Новые записи"
+
+#: inc/customizer.php:1444
+msgid "Numeric"
+msgstr "Числовой"
+
+#: inc/customizer.php:1442
+msgid "Blog Pagination"
+msgstr "Пагинации блога"
+
+#: inc/customizer.php:1431
+msgid "Show / Hide Blog Pagination"
+msgstr "Пагинация блога: показать/скрыть"
+
+#: inc/customizer.php:552
+msgid "Slider Transition Speed"
+msgstr "Скорость анимации (мс)"
+
+#: inc/customizer.php:434
+msgid "Add Slider Button Text"
+msgstr "Добавить текст кнопки слайдера"
+
+#: inc/customizer.php:2202
+msgid "Icon Padding"
+msgstr "Внутренний отступ значка"
+
+#: inc/customizer.php:2179
+msgid "Social Icons Settings"
+msgstr "Настройки значков соцсетей"
+
+#: inc/customizer.php:1179 inc/customizer.php:2245
+msgid "Icon Border Radius"
+msgstr "Радиус рамки значка"
+
+#: inc/customizer.php:1164 inc/customizer.php:2230
+msgid "Icon Height"
+msgstr "Высота значка"
+
+#: inc/customizer.php:1151
+msgid "Enter a value in pixels Example:20px"
+msgstr "Введите значение в пикселях. Пример: 20px"
+
+#: inc/customizer.php:1150 inc/customizer.php:2216
+msgid "Icon Width"
+msgstr "Ширина значка"
+
+#: inc/customizer.php:1136
+msgid "Icon Top Bottom Padding"
+msgstr "Внутренний отступ сверху и снизу значка"
+
+#: inc/customizer.php:1122 inc/customizer.php:2188
+msgid "Icon Font Size"
+msgstr "Размер шрифта значка"
+
+#: inc/customizer.php:540
+msgid "500px"
+msgstr "500px"
+
+#: inc/customizer.php:538
+msgid "Specify the slider height (px)."
+msgstr "Задайте высоту слайдера (px)."
+
+#: inc/customizer.php:537
+msgid "Slider Height"
+msgstr "Высота слайдера"
+
+#: functions.php:195
+msgid "Appears on single product page"
+msgstr "Появиться на странице отдельного товара"
+
+#: inc/customizer.php:1466
+msgid "Add Blog Button Text"
+msgstr "Добавить текст кнопки блога"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск по:"
+
+#: footer.php:61
+msgid "By VWThemes"
+msgstr "От VWThemes"
+
+#: inc/themes-widgets/social-icon.php:10
+msgid "VW Social Icon"
+msgstr "Значок соцсети VW"
+
+#: inc/themes-widgets/contact-us-widget.php:87
+msgid "Contact Form Shortcode:"
+msgstr "Шорткод контактной формы:"
+
+#: inc/themes-widgets/contact-us-widget.php:83
+msgid "Latitude:"
+msgstr "Долгота:"
+
+#: inc/themes-widgets/contact-us-widget.php:79
+msgid "Longitude:"
+msgstr "Широта:"
+
+#: inc/themes-widgets/contact-us-widget.php:75
+msgid "Opening Time:"
+msgstr "Время открытия:"
+
+#: inc/themes-widgets/contact-us-widget.php:71
+msgid "Address:"
+msgstr "Адрес:"
+
+#: inc/themes-widgets/contact-us-widget.php:67
+msgid "Email id:"
+msgstr "ID Email:"
+
+#: inc/themes-widgets/contact-us-widget.php:63
+msgid "Phone Number:"
+msgstr "Номер телефона:"
+
+#: inc/themes-widgets/contact-us-widget.php:33
+msgid "Opening Time: "
+msgstr "Время открытия: "
+
+#: inc/themes-widgets/contact-us-widget.php:32
+msgid "Address: "
+msgstr "Адрес: "
+
+#: inc/themes-widgets/contact-us-widget.php:31
+msgid "Email ID: "
+msgstr "Email ID: "
+
+#: inc/themes-widgets/contact-us-widget.php:30
+msgid "Phone Number: "
+msgstr "Номер телефона: "
+
+#: inc/themes-widgets/contact-us-widget.php:11
+msgid "Widget for contact us section in sidebar"
+msgstr "Виджет для раздела Свяжитесь с нами в области виджетов"
+
+#: inc/themes-widgets/contact-us-widget.php:10
+msgid "VW Contact us"
+msgstr "Свяжитесь с нами: VW"
+
+#: inc/themes-widgets/about-us-widget.php:80
+msgid "Image Url:"
+msgstr "URL изображения:"
+
+#: inc/themes-widgets/about-us-widget.php:76
+msgid "Button Url:"
+msgstr "URL кнопки:"
+
+#: inc/themes-widgets/about-us-widget.php:72
+msgid "Button Text:"
+msgstr "Текст кнопки:"
+
+#: inc/themes-widgets/about-us-widget.php:68
+msgid "Description:"
+msgstr "Описание:"
+
+#: inc/themes-widgets/about-us-widget.php:64
+msgid "Designation:"
+msgstr "Должность:"
+
+#: inc/themes-widgets/about-us-widget.php:60
+msgid "Author Name:"
+msgstr "Имя автора:"
+
+#: inc/themes-widgets/about-us-widget.php:11
+msgid "Widget for about us section in sidebar"
+msgstr "Виджет для раздела О нас в области виджетов"
+
+#: inc/themes-widgets/about-us-widget.php:10
+msgid "VW About us"
+msgstr "О нас: VW"
+
+#: inc/customizer.php:1419 inc/customizer.php:1978
+msgid "[...]"
+msgstr "[...]"
+
+#: inc/customizer.php:1417 inc/customizer.php:1976
+msgid "Add Excerpt Suffix"
+msgstr "Добавить суффикс отрывка"
+
+#: inc/customizer.php:1408
+msgid "No Content"
+msgstr "Без содержимого"
+
+#: inc/customizer.php:1406
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customizer.php:1403
+msgid "Post Content"
+msgstr "Содержимое записи"
+
+#: inc/customizer.php:1407
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: inc/customizer.php:1613
+msgid "Add Related Post Count"
+msgstr "Добавить число связанных записей"
+
+#: inc/customizer.php:1600
+msgid "Add Related Post Title"
+msgstr "Добавить название связанных записей"
+
+#: inc/customizer.php:1602
+msgid "Related Post"
+msgstr "Связанные записи"
+
+#: inc/customizer.php:1575
+msgid "Related Posts Settings"
+msgstr "Настройки связанных записей"
+
+#: inc/customizer.php:1213
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: inc/logo-resizer.php:92
+msgid "Show / Hide Site Tagline"
+msgstr "Краткое описание сайта: показать/скрыть"
+
+#: inc/logo-resizer.php:66
+msgid "Show / Hide Site Title"
+msgstr "Название сайта: показать/скрыть"
+
+#: inc/customizer.php:1064
+msgid "Copyright Padding Top Bottom"
+msgstr "Авторские права. Отступ сверху и снизу."
+
+#: inc/customizer.php:1079
+msgid "Copyright Alignment"
+msgstr "Выравнивание авторских прав"
+
+#: inc/customizer.php:1500
+msgid "Button Border Radius"
+msgstr "Радиус рамки кнопки"
+
+#: inc/customizer.php:1529
+msgid "Padding Left Right"
+msgstr "Внутренний отступ слева и справа"
+
+#: inc/customizer.php:1515
+msgid "Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу"
+
+#: inc/customizer.php:1451
+msgid "Button Settings"
+msgstr "Настройки кнопки"
+
+#: inc/customizer.php:158
+msgid "Search Border Radius"
+msgstr "Радиус рамки поиска"
+
+#: inc/customizer.php:143
+msgid "Search Padding Left Right"
+msgstr "Внутренний отступ слева и справа поиска"
+
+#: inc/customizer.php:129
+msgid "Search Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу поиска"
+
+#: inc/customizer.php:115
+msgid "Search Font Size"
+msgstr "Размер шрифта для поиска"
+
+#: inc/customizer.php:92 inc/customizer.php:118 inc/customizer.php:132
+#: inc/customizer.php:146 inc/customizer.php:271 inc/customizer.php:993
+#: inc/customizer.php:1053 inc/customizer.php:1067 inc/customizer.php:1125
+#: inc/customizer.php:1139 inc/customizer.php:1153 inc/customizer.php:1167
+#: inc/customizer.php:1333 inc/customizer.php:1347 inc/customizer.php:1483
+#: inc/customizer.php:1518 inc/customizer.php:1532 inc/customizer.php:1546
+#: inc/customizer.php:2191 inc/customizer.php:2205 inc/customizer.php:2219
+#: inc/customizer.php:2233 inc/customizer.php:2434 inc/customizer.php:2448
+#: inc/customizer.php:2496 inc/customizer.php:2510 inc/customizer.php:2555
+#: inc/customizer.php:2569 inc/customizer.php:2583 inc/logo-resizer.php:40
+#: inc/logo-resizer.php:54 inc/logo-resizer.php:79 inc/logo-resizer.php:105
+msgid "10px"
+msgstr "10px"
+
+#: inc/customizer.php:90 inc/customizer.php:116 inc/customizer.php:130
+#: inc/customizer.php:144 inc/customizer.php:269 inc/customizer.php:991
+#: inc/customizer.php:1051 inc/customizer.php:1065 inc/customizer.php:1123
+#: inc/customizer.php:1137 inc/customizer.php:1165 inc/customizer.php:1331
+#: inc/customizer.php:1345 inc/customizer.php:1481 inc/customizer.php:1516
+#: inc/customizer.php:1530 inc/customizer.php:1544 inc/customizer.php:2189
+#: inc/customizer.php:2203 inc/customizer.php:2217 inc/customizer.php:2231
+#: inc/customizer.php:2432 inc/customizer.php:2446 inc/customizer.php:2494
+#: inc/customizer.php:2508 inc/customizer.php:2553 inc/customizer.php:2567
+#: inc/customizer.php:2581 inc/logo-resizer.php:38 inc/logo-resizer.php:52
+#: inc/logo-resizer.php:77 inc/logo-resizer.php:103
+msgid "Enter a value in pixels. Example:20px"
+msgstr "Введите значение в пикселях. Пример: 20px"
+
+#: inc/customizer.php:89
+msgid "Topbar Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу верхняя панель"
+
+#: functions.php:304
+msgid "https://www.vwthemes.com/contact/"
+msgstr "https://www.vwthemes.com/contact/"
+
+#: functions.php:303
+msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+
+#: functions.php:302
+msgid "https://www.vwthemes.com/faqs/"
+msgstr "https://www.vwthemes.com/faqs/"
+
+#: functions.php:300
+msgid "https://www.vwthemes.net/vw-automobile-theme/"
+msgstr "https://www.vwthemes.net/vw-automobile-theme/"
+
+#: functions.php:299
+msgid "https://www.vwthemes.com/themes/automobile-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/automobile-wordpress-theme/"
+
+#: functions.php:298
+msgid "https://wordpress.org/support/theme/vw-automobile-lite/reviews/"
+msgstr "https://wordpress.org/support/theme/vw-automobile-lite/reviews/"
+
+#: functions.php:297
+msgid "https://wordpress.org/support/theme/vw-automobile-lite/"
+msgstr "https://wordpress.org/support/theme/vw-automobile-lite/"
+
+#: inc/typography/ctypo.php:49
+msgid "First Highlight Color"
+msgstr "Первый цвет выделения"
+
+#: inc/customizer.php:1110
+msgid "Add Scroll to Top Icon"
+msgstr "Добавить значок Прокрутить вверх"
+
+#: inc/customizer.php:2319
+msgid "Add Close Menu Icon"
+msgstr "Добавить значок Закрыть меню"
+
+#: inc/customizer.php:2306
+msgid "Add Open Menu Icon"
+msgstr "Добавить значок Открыть меню"
+
+#: inc/customizer.php:239
+msgid "Add Timing Icon"
+msgstr "Add Timing Icon"
+
+#: inc/customizer.php:215
+msgid "Add Email address Icon"
+msgstr "Добавьте значок email-адреса"
+
+#: inc/customizer.php:190
+msgid "Add Phone Number Icon"
+msgstr "Добавить значок номера телефона"
+
+#: inc/customizer.php:2277
+msgid "Show / Hide Sidebar"
+msgstr "Область виджетов: показать/скрыть"
+
+#: inc/customizer.php:2257
+msgid "Responsive Media"
+msgstr "Адаптивные медиа"
+
+#: inc/customizer.php:1963 inc/customizer.php:2135
+msgid "Add Button Text"
+msgstr "Добавьте текст кнопки"
+
+#: 404.php:14 inc/customizer.php:2124
+msgid "Looks like you have taken a wrong turn, Dont worry, it happens to the best of us."
+msgstr "Похоже, Вы свернули не туда, не волнуйтесь, это случается с лучшими из нас."
+
+#: inc/customizer.php:2122 inc/customizer.php:2169
+msgid "Add Text"
+msgstr "Добавить текст"
+
+#: 404.php:13 inc/customizer.php:2111
+msgid "404 Not Found"
+msgstr "Не найдено 404"
+
+#: inc/customizer.php:2109 inc/customizer.php:2155
+msgid "Add Title"
+msgstr "Добавить название"
+
+#: inc/customizer.php:2100
+msgid "404 Page Settings"
+msgstr "Настройки страницы 404"
+
+#: functions.php:194
+msgid "Single Product Sidebar"
+msgstr "Область виджетов отдельного товара"
+
+#: functions.php:185
+msgid "Appears on shop page"
+msgstr "Появиться на странице магазина"
+
+#: functions.php:184
+msgid "Shop Page Sidebar"
+msgstr "Область виджетов страницы магазина"
+
+#: inc/customizer.php:1224
+msgid "Blog Layouts"
+msgstr "Макеты блога"
+
+#: inc/customizer.php:1320
+msgid "Default"
+msgstr "По умолчанию"
+
+#: header.php:110
+msgid "Close Button"
+msgstr "Кнопка Закрыть"
+
+#: header.php:100
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: header.php:97
+msgid "Open Button"
+msgstr "Кнопка Открыть"
+
+#: inc/themes-widgets/social-icon.php:35
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/themes-widgets/social-icon.php:34
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/themes-widgets/social-icon.php:33
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/themes-widgets/social-icon.php:32
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/themes-widgets/social-icon.php:31
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/themes-widgets/social-icon.php:30
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/themes-widgets/social-icon.php:29
+msgid "Facebook"
+msgstr "Facebook"
+
+#: footer.php:68 footer.php:70 footer.php:72
+msgid "Scroll Up"
+msgstr "Прокрутить вверх"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/customizer.php:1094 inc/customizer.php:2287
+msgid "Show / Hide Scroll To Top"
+msgstr "Прокрутить вверх: показать/скрыть"
+
+#: inc/typography/ctypo.php:50
+msgid "It will change the highlight color in one click."
+msgstr "Это изменит цвет выделения в один клик."
+
+#: inc/customizer.php:1195
+msgid "Scroll To Top"
+msgstr "Прокрутить вверх"
+
+#: inc/customizer.php:77 inc/customizer.php:930 inc/customizer.php:964
+#: inc/customizer.php:980 inc/customizer.php:2543
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer.php:1359
+msgid "Excerpt length"
+msgstr "Длина отрывка"
+
+#: inc/customizer.php:1206
+msgid "Blog Post Settings"
+msgstr "Настройки записи блога"
+
+#: inc/customizer.php:778
+msgid "Services Excerpt length"
+msgstr "Длинна отрывка услуг"
+
+#: inc/customizer.php:565
+msgid "Slider Image Opacity"
+msgstr "Непрозрачность изображения слайдера"
+
+#: inc/customizer.php:520
+msgid "Slider Excerpt length"
+msgstr "Длинна отрывка слайдера"
+
+#: inc/customizer.php:473
+msgid "Slider Content Layouts"
+msgstr "Макет содержимого слайдера"
+
+#: inc/customizer.php:76 inc/customizer.php:929 inc/customizer.php:963
+#: inc/customizer.php:979
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer.php:422
+msgid "Slider image size (1500 x 765)"
+msgstr "Размер изображения слайдера (1500 x 765)"
+
+#: inc/customizer.php:106
+msgid "Show / Hide Search"
+msgstr "Поиск: показать/скрыть"
+
+#: inc/customizer.php:2019
+msgid "Here you can change the sidebar layout for pages. "
+msgstr "Здесь вы можете изменить макет области виджетов для страниц. "
+
+#: inc/customizer.php:2018
+msgid "Page Sidebar Layout"
+msgstr "Макет области виджетов страницы"
+
+#: inc/customizer.php:1240
+msgid "Here you can change the sidebar layout for posts. "
+msgstr "Здесь вы можете изменить макет области виджетов для записей. "
+
+#: inc/customizer.php:1239
+msgid "Post Sidebar Layout"
+msgstr "Макет области виджетов записи"
+
+#: inc/customizer.php:2004
+msgid "Here you can change the width layout of Website."
+msgstr "Тут вы можете изменить ширину макета сайта."
+
+#: inc/customizer.php:2003
+msgid "Width Layouts"
+msgstr "Ширина макета"
+
+#: inc/getting-started/getting-started.php:29
+msgid "vwpro20"
+msgstr "vwpro20"
+
+#: inc/themes-widgets/social-icon.php:85
+msgid "Youtube:"
+msgstr "YouTube:"
+
+#: inc/themes-widgets/social-icon.php:81
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/themes-widgets/social-icon.php:77
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/themes-widgets/social-icon.php:73
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/themes-widgets/social-icon.php:69
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/themes-widgets/social-icon.php:65
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/themes-widgets/social-icon.php:61
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/themes-widgets/about-us-widget.php:56
+#: inc/themes-widgets/contact-us-widget.php:59
+#: inc/themes-widgets/social-icon.php:57
+msgid "Title:"
+msgstr "Название:"
+
+#: inc/themes-widgets/social-icon.php:11
+msgid "Widget for Social icons section"
+msgstr "Виджет для раздела соцсетей"
+
+#: inc/getting-started/getting-started.php:222
+#: inc/getting-started/getting-started.php:292
+msgid "Social Icons"
+msgstr "Значки соцсетей"
+
+#: inc/typography/customize/control-typography.php:306
+msgid "Oblique"
+msgstr "Наклонный"
+
+#: inc/typography/customize/control-typography.php:305
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/typography/customize/control-typography.php:290
+msgid "Ultra Bold"
+msgstr "Ультра толстый"
+
+#: inc/typography/customize/control-typography.php:289
+msgid "Bold"
+msgstr "Жирный"
+
+#: inc/typography/customize/control-typography.php:288
+msgid "Medium"
+msgstr "Средний"
+
+#: inc/typography/customize/control-typography.php:287
+#: inc/typography/customize/control-typography.php:304
+msgid "Normal"
+msgstr "Обычный"
+
+#: inc/typography/customize/control-typography.php:286
+msgid "Light"
+msgstr "Светлая"
+
+#: inc/typography/customize/control-typography.php:285
+msgid "Thin"
+msgstr "Тонкий"
+
+#: inc/typography/customize/control-typography.php:284
+msgid "No Fonts weight"
+msgstr "Без толщины шрифта"
+
+#: inc/typography/customize/control-typography.php:54
+msgid "Letter Spacing"
+msgstr "Межбуквенное расстояние"
+
+#: inc/typography/customize/control-typography.php:53
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: inc/typography/customize/control-typography.php:52
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/typography/customize/control-typography.php:51
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/typography/customize/control-typography.php:50
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/typography/customize/control-typography.php:49
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: inc/typography/customize/control-typography.php:48
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: inc/typography/ctypo.php:311
+msgid "Heading 6"
+msgstr "Заголовок 6"
+
+#: inc/typography/ctypo.php:306 inc/typography/ctypo.php:312
+msgid "Select how heading 6 should appear."
+msgstr "Выберите способ отображения заголовка 6."
+
+#: inc/typography/ctypo.php:305
+msgid "Heading 6 Color"
+msgstr "Цвет заголовка 6"
+
+#: inc/typography/ctypo.php:286
+msgid "Heading 5"
+msgstr "Заголовок 5"
+
+#: inc/typography/ctypo.php:281 inc/typography/ctypo.php:287
+msgid "Select how heading 5 should appear."
+msgstr "Выберите способ отображения заголовка 5."
+
+#: inc/typography/ctypo.php:280
+msgid "Heading 5 Color"
+msgstr "Цвет заголовка 5"
+
+#: inc/typography/ctypo.php:261
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+#: inc/typography/ctypo.php:256 inc/typography/ctypo.php:262
+msgid "Select how heading 4 should appear."
+msgstr "Выберите способ отображения заголовка 4."
+
+#: inc/typography/ctypo.php:255
+msgid "Heading 4 Color"
+msgstr "Цвет заголовка 4"
+
+#: inc/typography/ctypo.php:236
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+#: inc/typography/ctypo.php:231 inc/typography/ctypo.php:237
+msgid "Select how heading 3 should appear."
+msgstr "Выберите способ отображения заголовка 3."
+
+#: inc/typography/ctypo.php:230
+msgid "Heading 3 Color"
+msgstr "Цвет заголовка 3"
+
+#: inc/typography/ctypo.php:211
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: inc/typography/ctypo.php:206 inc/typography/ctypo.php:212
+msgid "Select how heading 2 should appear."
+msgstr "Выберите способ отображения заголовка 2."
+
+#: inc/typography/ctypo.php:205
+msgid "Heading 2 Color"
+msgstr "Цвет заголовка 2"
+
+#: inc/typography/ctypo.php:186
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: inc/typography/ctypo.php:181 inc/typography/ctypo.php:187
+msgid "Select how heading 1 should appear."
+msgstr "Выберите способ отображения заголовка 1."
+
+#: inc/typography/ctypo.php:180
+msgid "Heading 1 Color"
+msgstr "Цвет заголовка 1"
+
+#: inc/typography/ctypo.php:161
+msgid "Anchor Tag Typography"
+msgstr "Типографика метки якоря"
+
+#: inc/typography/ctypo.php:156 inc/typography/ctypo.php:162
+msgid "Select how you want your a tag to appear."
+msgstr "Выберите способ отображения метки."
+
+#: inc/typography/ctypo.php:155
+msgid "Anchor Tag Color"
+msgstr "Цвет метки якоря"
+
+#: inc/typography/ctypo.php:136
+msgid "Paragraph Typography"
+msgstr "Типография абзаца"
+
+#: inc/typography/ctypo.php:131 inc/typography/ctypo.php:137
+msgid "Select how you want your paragraphs to appear."
+msgstr "Выберите способ отображения абзацев."
+
+#: inc/typography/ctypo.php:36
+msgid "Headings Typography"
+msgstr "Типографика заголовков"
+
+#: inc/typography/ctypo.php:31
+msgid "Content Typography"
+msgstr "Типография содержимого"
+
+#: inc/customizer.php:380 inc/customizer.php:2267
+msgid "Show / Hide Slider"
+msgstr "Слайдер: показать/скрыть"
+
+#: inc/getting-started/getting-started.php:621
+msgid "Support Queries"
+msgstr "Запросы в поддержку"
+
+#. translators: %s: search term
+#: search.php:18 search.php:40 search.php:61 search.php:83 search.php:107
+#: search.php:128 search.php:154
+msgid "Results For: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/customizer.php:436 page-template/custom-home-page.php:49
+msgid "DISCOVER MORE"
+msgstr "УЗНАТЬ БОЛЬШЕ"
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:25
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: template-parts/content-audio.php:102 template-parts/content-audio.php:171
+#: template-parts/content-gallery.php:91 template-parts/content-gallery.php:156
+#: template-parts/content-image.php:81 template-parts/content-image.php:134
+#: template-parts/content-video.php:101 template-parts/content-video.php:170
+#: template-parts/content.php:81 template-parts/content.php:134
+#: template-parts/grid-layout.php:42 template-parts/single-post-layout.php:30
+msgid "% Comments"
+msgstr "Комментарии %"
+
+#: template-parts/content-audio.php:102 template-parts/content-audio.php:171
+#: template-parts/content-gallery.php:91 template-parts/content-gallery.php:156
+#: template-parts/content-image.php:81 template-parts/content-image.php:134
+#: template-parts/content-video.php:101 template-parts/content-video.php:170
+#: template-parts/content.php:81 template-parts/content.php:134
+#: template-parts/grid-layout.php:42 template-parts/single-post-layout.php:30
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: no-results.php:15
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать вашу первую запись? Начните отсюда."
+
+#. translators: %s: post title
+#: comments.php:31
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: inc/logo-resizer.php:16
+msgid "Logo Size"
+msgstr "Размер логотипа"
+
+#: inc/customizer.php:2749
+msgid "Docs"
+msgstr "Документация"
+
+#: inc/getting-started/getting-started.php:163
+#: inc/getting-started/getting-started.php:168
+msgid " Go to "
+msgstr " Перейти "
+
+#: inc/getting-started/getting-started.php:168
+msgid "2. Set the front page:"
+msgstr "2. Установите главную страницу:"
+
+#: inc/getting-started/getting-started.php:161
+msgid "Follow these instructions to setup Home page."
+msgstr "Следуйте этим инструкциям, чтобы установить главную страницу."
+
+#: inc/getting-started/getting-started.php:159
+msgid "How to set up Home Page Template"
+msgstr "Как настроить шаблон главной страницы"
+
+#: inc/getting-started/getting-started.php:131
+#: inc/getting-started/getting-started.php:249
+#: inc/getting-started/getting-started.php:319
+msgid "Footer Widget"
+msgstr "Виджет подвала"
+
+#: inc/getting-started/getting-started.php:126
+#: inc/getting-started/getting-started.php:227
+#: inc/getting-started/getting-started.php:297
+msgid "Menus"
+msgstr "Меню"
+
+#: inc/getting-started/getting-started.php:123
+msgid "Chooose Us Section"
+msgstr "Раздел \"Выберите нас\""
+
+#: inc/getting-started/getting-started.php:118
+msgid "Topbar Settings"
+msgstr "Настройки верхней панели"
+
+#: inc/getting-started/getting-started.php:107
+#: inc/getting-started/getting-started.php:219
+#: inc/getting-started/getting-started.php:289
+msgid "Upload your logo"
+msgstr "Загрузите ваше лого"
+
+#: inc/getting-started/getting-started.php:102
+#: inc/getting-started/getting-started.php:214
+#: inc/getting-started/getting-started.php:284
+msgid "Link to customizer"
+msgstr "Ссылка на настройку темы"
+
+#: inc/getting-started/getting-started.php:29
+msgid "Use Coupon"
+msgstr "Использовать купон"
+
+#: inc/getting-started/getting-started.php:28
+msgid "Buy VW Automobile at 20% Discount"
+msgstr "Купите VW Automobile с 20% скидкой"
+
+#: inc/getting-started/getting-started.php:624
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: inc/getting-started/getting-started.php:622
+msgid "If you have any queries after purchase, you can contact us. We are eveready to help you out."
+msgstr "Если у вас есть вопросы после покупки, вы можете связаться с нами. Мы всегда готовы помочь вам."
+
+#: inc/getting-started/getting-started.php:616
+msgid "View FAQ"
+msgstr "Посмотрите FAQ"
+
+#: inc/getting-started/getting-started.php:614
+msgid "We have gathered top most, frequently asked questions and answered them for your easy understanding. We will list down more as we get new challenging queries. Check back often."
+msgstr "Мы собрали самые популярные, часто задаваемые вопросы и ответили на них, для того что бы вы лучше понимали. Мы будем добавлять больше ответов, поскольку у нас появятся новые интересные вопросы. Проверяйте их чаще."
+
+#: inc/getting-started/getting-started.php:613
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: inc/getting-started/getting-started.php:608
+msgid "About Child Theme"
+msgstr "О дочерней теме"
+
+#: inc/getting-started/getting-started.php:606
+msgid "For theme file customizations, make modifications in the child theme and not in the main theme file."
+msgstr "Для настроек файла темы внесите изменения в дочернюю тему, а не в файл основной темы."
+
+#: inc/getting-started/getting-started.php:605
+msgid "Child Theme"
+msgstr "Дочерняя тема"
+
+#: inc/getting-started/getting-started.php:601
+msgid "Question"
+msgstr "Вопрос"
+
+#: inc/getting-started/getting-started.php:599
+msgid "If you have any pre-sale query, we are prepared to resolve it."
+msgstr "Если у вас есть предпродажный вопрос, мы готовы на него ответить."
+
+#: inc/getting-started/getting-started.php:598
+msgid "Pre-purchase Queries"
+msgstr "Предпродажные вопросы"
+
+#: inc/getting-started/getting-started.php:594
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: inc/getting-started/getting-started.php:592
+msgid "To gain access to extra theme options and more interesting features, upgrade to pro version."
+msgstr "Чтобы получить доступ к дополнительным параметрам темы и более интересным свойствами, выполните обновление до версии pro."
+
+#: inc/getting-started/getting-started.php:591
+msgid "Pro Version"
+msgstr "Версия PRO"
+
+#: inc/getting-started/getting-started.php:574
+msgid "Seamless Customer Support"
+msgstr "Полная поддержка клиентов"
+
+#: inc/getting-started/getting-started.php:569
+msgid "All Access Theme Pass"
+msgstr "Все темы доступны для перевода"
+
+#: inc/getting-started/getting-started.php:564
+msgid "Custom Feature Addition"
+msgstr "Добавление пользовательской функции"
+
+#: inc/getting-started/getting-started.php:559
+msgid "Priority Error Fixing"
+msgstr "Исправление приоритетной ошибки"
+
+#: inc/getting-started/getting-started.php:554
+msgid "Budget Friendly Value"
+msgstr "Бюджетная дружеская стоимость"
+
+#: inc/getting-started/getting-started.php:549
+msgid "Premium Membership"
+msgstr "Премиум членство"
+
+#: inc/getting-started/getting-started.php:544
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Пользовательский фон, цвета, шапка, логотип и меню"
+
+#: inc/getting-started/getting-started.php:539
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: inc/getting-started/getting-started.php:534
+msgid "Support to add custom CSS / JS "
+msgstr "Поддержка добавления пользовательских CSS / JS "
+
+#: inc/getting-started/getting-started.php:529
+msgid "Simple & Mega Menu Option"
+msgstr "Настройки отдельного и мега меню"
+
+#: inc/getting-started/getting-started.php:524
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/getting-started/getting-started.php:519
+msgid "Section Google Font Choices"
+msgstr "Раздел Выбор шрифтов Google"
+
+#: inc/getting-started/getting-started.php:514
+msgid "Section Enable / Disable"
+msgstr "Раздел вкл/откл"
+
+#: inc/getting-started/getting-started.php:509
+msgid "Exclusive Functionalities"
+msgstr "Эксклюзивные функции"
+
+#: inc/getting-started/getting-started.php:504
+msgid "Secure and Optimized Code"
+msgstr "Безопасный и оптимизированый код"
+
+#: inc/getting-started/getting-started.php:499
+msgid "Support 3rd Party Plugins"
+msgstr "Поддержка плагинов сторонних разработчиков"
+
+#: inc/getting-started/getting-started.php:494
+msgid "Woo-Commerce Compatibility"
+msgstr "Совместимость с Woo-Commerce"
+
+#: inc/getting-started/getting-started.php:489
+msgid "Latest WordPress Compatibility"
+msgstr "Совместимость с последними версиями WordPress"
+
+#: inc/getting-started/getting-started.php:484
+msgid "Full Documentation"
+msgstr "Полная документация"
+
+#: inc/getting-started/getting-started.php:451
+msgid "2(Left/Right Sidebar)"
+msgstr "2 (левая/правая область виджетов)"
+
+#: inc/getting-started/getting-started.php:449
+msgid "Page Templates & Layout"
+msgstr "Шаблон и макет страницы"
+
+#: inc/getting-started/getting-started.php:446
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3 (во всю ширину/левая/правая область виджетов)"
+
+#: inc/getting-started/getting-started.php:444
+msgid "Blog Templates & Layout"
+msgstr "Шаблоны и макеты блога"
+
+#: inc/getting-started/getting-started.php:439
+msgid "Contact us Page Template"
+msgstr "Шаблон страницы \"Свяжитесь с нами\""
+
+#: inc/getting-started/getting-started.php:430
+#: inc/getting-started/getting-started.php:431
+#: inc/getting-started/getting-started.php:441
+msgid "1"
+msgstr "1"
+
+#: inc/getting-started/getting-started.php:429
+msgid "Home Page Template"
+msgstr "Шаблон главной страницы"
+
+#: inc/getting-started/getting-started.php:426
+msgid "6"
+msgstr "6"
+
+#: inc/customizer.php:1615 inc/getting-started/getting-started.php:425
+msgid "3"
+msgstr "3"
+
+#: inc/getting-started/getting-started.php:424
+msgid "Template Pages"
+msgstr "Шаблон страниц"
+
+#: inc/getting-started/getting-started.php:421
+msgid "Unlimited"
+msgstr "Неограниченно"
+
+#: inc/getting-started/getting-started.php:420
+msgid "4"
+msgstr "4"
+
+#: inc/getting-started/getting-started.php:419
+msgid "Number of Slides"
+msgstr "Количество слайдов"
+
+#: inc/getting-started/getting-started.php:409
+msgid "Social Media Links"
+msgstr "Ссылки на соцсети"
+
+#: inc/getting-started/getting-started.php:404
+msgid "Logo Upload"
+msgstr "Загрузка логотипа"
+
+#: inc/getting-started/getting-started.php:399
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: inc/getting-started/getting-started.php:394
+msgid "Theme Customization"
+msgstr "Настройка темы"
+
+#: inc/getting-started/getting-started.php:389
+msgid "Premium Themes"
+msgstr "Премиум темы"
+
+#: inc/getting-started/getting-started.php:388
+msgid "Free Themes"
+msgstr "Бесплатные темы"
+
+#: inc/getting-started/getting-started.php:381
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/getting-started/getting-started.php:374
+msgid "Pro Documentation"
+msgstr "Документация Pro"
+
+#: inc/getting-started/getting-started.php:373
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: inc/getting-started/getting-started.php:372
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/getting-started/getting-started.php:370
+msgid "This spectacular premium Automobile WordPress Theme is made for the motor-heads. We have created our Automobile themes Stunning design with respect to the automotive industry. The frenzy for keeping our cars immaculate and shiny is well known. We assure you that it will be well reflected in our theme. As they are made with utilizing clean coding standards and it will function well with current WordPress version. It is built on the foundation of being responsive & user-friendly. This allows it to function at its optimal best across all platforms. This takes care of all the visitors and users, regardless of the source of traffic is being driven from."
+msgstr "Эта впечатляющая премиальная тема WordPress - Automobile, предназначена для байкеров. Мы создали наши темы Automobile с потрясающим дизайном с любовью к автомобильной промышленности. Хорошо известна безумная любовь содержать наши автомобили безукоринеными и сверкающими. Мы заверяем вас, что это будет отражено в нашей теме. Поскольку она сделаны с использованием чистых стандартов кодирования, и она будет хорошо работать с текущей версией WordPress. Она построена по принципу гибкости и удобства использования. Это позволяет ей оптимально функционировать на всех платформах. Это касается всех посетителей и пользователей, независимо от источника трафика."
+
+#: inc/getting-started/getting-started.php:367
+msgid "Premium Theme Information"
+msgstr "Информация о премиум теме"
+
+#: inc/getting-started/getting-started.php:99
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: inc/getting-started/getting-started.php:97
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Все свойства и аспекты этой WordPress темы феноменальны. Я бы рекомендовал эту тему всем."
+
+#: inc/getting-started/getting-started.php:96
+msgid "Reviews & Testimonials"
+msgstr "Обзоры и отзывы"
+
+#: inc/getting-started/getting-started.php:93
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/getting-started/getting-started.php:91
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Наша целеустремленная команда хорошо подготовлена, чтобы помочь вам в случае вопросов и сомнений относительно нашей темы."
+
+#: inc/getting-started/getting-started.php:90
+msgid "Having Trouble, Need Support?"
+msgstr "Проблемы, нужна в поддержка?"
+
+#: inc/getting-started/getting-started.php:87
+msgid "Customizing"
+msgstr "Индивидуализация"
+
+#: inc/getting-started/getting-started.php:85
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr "Чтобы начать настройку своего сайта, начните с нажатия «Настроить»."
+
+#: inc/getting-started/getting-started.php:84
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/customizer.php:2748 inc/getting-started/getting-started.php:81
+#: inc/getting-started/getting-started.php:172
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/getting-started/getting-started.php:79
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Если вам нужна помощь в установке и настройке темы, тут наша документация."
+
+#: inc/getting-started/getting-started.php:78
+msgid "Theme Documentation"
+msgstr "Документация темы"
+
+#: inc/getting-started/getting-started.php:76
+msgid "Our Automobile WordPress Theme is designed to be stylish and classy, much like all our beloved cars. This exclusive theme is developed especially for car dealership, Motorhome, Travel Trailer, Lifts, Trators, Forklift, Campers, Lift Trucks, MotoSnow, Snow Motorcycle, Motorbike Motor Full, Agriculture Equipment and even Aircrafts, Jets, Side-By-Side, ATV, Utilities ATV, RVs Helicopters, Turboprops, Charter, Airplanes, and Aerotrader businesses. Our Free WordPress theme is so feature-rich that you wouldnt feel like buying from someone else. With ample of personalization options, optimized codes, call to action button (CTA), beautiful banners, useful shortcodes, numerous styling options, it is the best professional WordPress theme to grab. You will get an interactive demo, responsive slider, quick page speed, display options, SEO friendly features, social media icons, and a bunch of other phenomenal features with this supreme theme. Furthermore, built on Bootstrap framework, the theme will ease the web development. No matter what kind of automobile industry or services you offer, our Automobile theme is made for the gear-heads like you. Whether you sell used car, deal in motorbikes, motorcycles, small cars, trucks, scooters, snowmobile, cab service, automobile blogger, own a car review website, run a garage, repair service, own a showroom, run a driving school and etc. All your long research and time invested in finding the best themes end with us, as we bring you a theme like no other. Our Free Automobile WordPress Theme is fresh, special and distinct in every aspect. It guarantees to give your website a professional look which you desperately wanted."
+msgstr "Наша тема WordPress - Automobile, сделана стильной и класной, как и все наши любимые машины. Эта эксклюзивная тема разработана специально для автодилеров, домах на колесах, трейлеров, подъемников, тракторов, грузоподъемников, кэмперов, тягачей, снегохода, снежных мотощиклов, байков, сельскохозяйственного оборудования и даже самолеты, джетов, вездеходов , оборудование для вездеходов, вертолетов, турбовинтовых, чартерных, авиационные и аэротрейдеры. Наша бесплатная WordPress тема настолько многофункциональна, что вам не захочется покупать что-то другое. Имея множество опций персонализации, оптимизированный код, кнопку призыва к действию (CTA), красивые баннеры, полезные короткие коды, многочисленные варианты стилизации, это лучшая профессиональная тема WordPress для захвата рынка. Вы получите интерактивную демонстрацию, адаптивный слайдер, быструю скорость страницы, параметры отображения, удобные для SEO функции, значки социальных сетей и множество других феноменальных функций с этой супер темой. Кроме того, она создана на основе Bootstrap, тема облегчит создание веб-сайтов. Независимо от того, какую автомобильную промышленность или услуги вы предлагаете, наша Automobile тема сделана для таких любителей машин, как вы. Если вы продаете подержанный автомобиль, занимаетесь мотоциклами, байками, небольшими автомобилями, грузовиками, скутерами, снегоходами, обслуживанием такси, автомобильным блоггером, ведете автомобильный обзор, управляете гаражом, ремонтом, владеете выставочным залом, управляете автошколами и т. д. Все ваши длительные исследования и время, потраченные на поиск лучших тем, заканчиваются с нами, поскольку мы предоставляем вам лучшую тему, как никто другой. Наша бесплатная WordPress тема для автомобилей является свежей, особенной и отличной во всех аспектах. Она гарантирует, что ваш веб-сайт будет выглядеть профессионально, а это то чего вы отчаянно хотели."
+
+#: inc/getting-started/getting-started.php:74
+msgid "Lite Theme Information"
+msgstr "Информация об облегченной теме"
+
+#: inc/getting-started/getting-started.php:43
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/getting-started/getting-started.php:42
+msgid "Get Premium"
+msgstr "Приобрести Премиум"
+
+#: inc/getting-started/getting-started.php:31
+#: inc/getting-started/getting-started.php:581
+msgid "Upgrade to Pro"
+msgstr "Обновиться до PRO-версии"
+
+#: inc/getting-started/getting-started.php:21
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr "Все наши WordPress темы являются современными, минималистичными, 100% адаптивными, подготовлеными к seo, с богатым функционалом и многофункциональными, которые идеально подойдут дизайнерам, блоггерам и другим профессионалам, которые работают в области творчества."
+
+#: inc/getting-started/getting-started.php:20
+msgid "Welcome to VW Automobile Theme"
+msgstr "Добро пожаловать в тему VW Automobile"
+
+#: inc/getting-started/getting-started.php:4
+msgid "About VW Automobile Theme"
+msgstr "Про тему VW Automobile"
+
+#: inc/customizer.php:2741
+msgid "Upgrade Pro"
+msgstr "Обновиться до Pro"
+
+#: inc/typography/ctypo.php:130
+msgid "Paragraph Color"
+msgstr "Цвет абзаца"
+
+#: inc/getting-started/getting-started.php:110 inc/typography/ctypo.php:27
+msgid "Typography"
+msgstr "Типография"
+
+#: inc/typography/customize/control-typography.php:269
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: inc/typography/customize/control-typography.php:270
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: inc/typography/customize/control-typography.php:268
+msgid "Chewy"
+msgstr "Chewy"
+
+#: inc/typography/customize/control-typography.php:267
+msgid "Cookie"
+msgstr "Файлы cookie"
+
+#: inc/typography/customize/control-typography.php:266
+msgid "Cuprum"
+msgstr "Cuprum"
+
+#: inc/typography/customize/control-typography.php:265
+msgid "Crimson Text"
+msgstr "Crimson Text"
+
+#: inc/typography/customize/control-typography.php:264
+msgid "Cormorant Garamond"
+msgstr "Cormorant Garamond"
+
+#: inc/typography/customize/control-typography.php:263
+msgid "Cherry Swash"
+msgstr "Cherry Swash"
+
+#: inc/typography/customize/control-typography.php:262
+msgid "Courgette"
+msgstr "Courgette"
+
+#: inc/typography/customize/control-typography.php:261
+msgid "Cardo"
+msgstr "Cardo"
+
+#: inc/typography/customize/control-typography.php:260
+msgid "Cabin"
+msgstr "Cabin"
+
+#: inc/typography/customize/control-typography.php:259
+msgid "BenchNine"
+msgstr "BenchNine"
+
+#: inc/typography/customize/control-typography.php:258
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: inc/typography/customize/control-typography.php:257
+msgid "Bitter"
+msgstr "Bitter"
+
+#: inc/typography/customize/control-typography.php:256
+msgid "Bad Script"
+msgstr "Bad Script"
+
+#: inc/typography/customize/control-typography.php:255
+msgid "Boogaloo"
+msgstr "Boogaloo"
+
+#: inc/typography/customize/control-typography.php:254
+msgid "Bangers"
+msgstr "Bangers"
+
+#: inc/typography/customize/control-typography.php:253
+msgid "Averia Serif Libre"
+msgstr "Averia Serif Libre"
+
+#: inc/typography/customize/control-typography.php:252
+msgid "Alfa Slab One"
+msgstr "Alfa Slab One"
+
+#: inc/typography/customize/control-typography.php:251
+msgid "Alegreya"
+msgstr "Alegreya"
+
+#: inc/typography/customize/control-typography.php:250
+msgid "Arvo"
+msgstr "Arvo"
+
+#: inc/typography/customize/control-typography.php:249
+msgid "Arsenal"
+msgstr "Arsenal"
+
+#: inc/typography/customize/control-typography.php:248
+msgid "Arimo"
+msgstr "Arimo"
+
+#: inc/typography/customize/control-typography.php:247
+msgid "Architects Daughter"
+msgstr "Architects Daughter"
+
+#: inc/typography/customize/control-typography.php:246
+msgid "Anton"
+msgstr "Anton"
+
+#: inc/typography/customize/control-typography.php:245
+msgid "Acme"
+msgstr "Acme"
+
+#: inc/typography/customize/control-typography.php:244
+msgid "Abril Fatface"
+msgstr "Abril Fatface"
+
+#: inc/typography/customize/control-typography.php:243
+msgid "No Fonts"
+msgstr "Без шрифта"
+
+#: functions.php:104
+msgid "Thank you for choosing VW Automobile theme. Would like to have you on our Welcome page so that you can reap all the benefits of our VW Automobile theme."
+msgstr "Благодарим вас за выбор темы VW Automobile. Ждем вас на нашей странице приветствия, чтобы вы могли воспользоваться всеми преимуществами нашей темы VW Automobile."
+
+#: no-results.php:20
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйтесь, и это случилось с лучшими из нас."
+
+#: inc/customizer.php:881
+msgid "Footer Section"
+msgstr "Раздел подвала"
+
+#: functions.php:309
+msgid "Automobile WordPress Theme"
+msgstr "Automobile WordPress тема"
+
+#: inc/customizer.php:251
+msgid "Add Timing"
+msgstr "Добавить время"
+
+#: inc/customizer.php:1247
+msgid "Four Columns"
+msgstr "Четыре столбца"
+
+#: inc/customizer.php:1246
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: inc/customizer.php:1245 inc/customizer.php:2024
+msgid "One Column"
+msgstr "Один столбец"
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Пользовательская главная страница"
+
+#: template-parts/single-post-layout.php:72
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: page-template/custom-home-page.php:64
+msgid "Previous"
+msgstr "Предыдущая"
+
+#: template-parts/single-post-layout.php:69
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: page-template/custom-home-page.php:68
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/single-post-layout.php:64
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "Изменить"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/customizer.php:1462 inc/customizer.php:1468 inc/customizer.php:1959
+#: inc/customizer.php:1965 template-parts/content-audio.php:83
+#: template-parts/content-audio.php:140 template-parts/content-audio.php:196
+#: template-parts/content-gallery.php:72 template-parts/content-gallery.php:127
+#: template-parts/content-gallery.php:181 template-parts/content-image.php:62
+#: template-parts/content-image.php:111 template-parts/content-image.php:159
+#: template-parts/content-video.php:82 template-parts/content-video.php:139
+#: template-parts/content-video.php:195 template-parts/content.php:62
+#: template-parts/content.php:111 template-parts/content.php:159
+#: template-parts/grid-layout.php:56 template-parts/related-posts.php:60
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Архивы"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer.php:2171 no-results.php:17
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствует вашему поисковому запросу. Попробуйте ввести запрос другими словами."
+
+#: inc/customizer.php:2157 no-results.php:11
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/customizer.php:2740
+msgid "VW Automobile Pro"
+msgstr "VW Automobile Pro"
+
+#: inc/customizer.php:1040
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/getting-started/getting-started.php:152
+#: inc/getting-started/getting-started.php:231
+#: inc/getting-started/getting-started.php:301
+msgid "Footer Text"
+msgstr "Текст подвала"
+
+#: inc/customizer.php:767
+msgid "Select Category to display Latest Post"
+msgstr "Выберите рубрику для отображения последней записи"
+
+#: inc/customizer.php:743
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/block-patterns/block-patterns.php:36 inc/customizer.php:726
+msgid "Choose Us Section"
+msgstr "Раздел Выберите нас"
+
+#: inc/customizer.php:227
+msgid "Add Email"
+msgstr "Добавить email"
+
+#: inc/customizer.php:203
+msgid "Add Phone Number"
+msgstr "Добавить номер телефона"
+
+#: inc/customizer.php:47
+msgid "Add Top Header Content here"
+msgstr "Добавьте сюда содержимое верхней шапки"
+
+#: inc/customizer.php:46
+msgid "Topbar Section"
+msgstr "Раздел верхней панели"
+
+#: inc/customizer.php:421
+msgid "Select Slide Image Page"
+msgstr "Выберите страницу слайдов"
+
+#: inc/getting-started/getting-started.php:115
+#: inc/getting-started/getting-started.php:414
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:1248
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: inc/customizer.php:1244 inc/customizer.php:2023 inc/customizer.php:2358
+#: inc/customizer.php:2387
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: inc/customizer.php:1243 inc/customizer.php:2022 inc/customizer.php:2357
+#: inc/customizer.php:2386
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer.php:1992 inc/getting-started/getting-started.php:149
+#: inc/getting-started/getting-started.php:246
+#: inc/getting-started/getting-started.php:316
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: functions.php:174
+msgid "Footer Navigation 4"
+msgstr "Навигация в подвале 4"
+
+#: functions.php:164
+msgid "Footer Navigation 3"
+msgstr "Навигация в подвале 3"
+
+#: functions.php:154
+msgid "Footer Navigation 2"
+msgstr "Навигация в подвале 2"
+
+#: functions.php:145 functions.php:155 functions.php:165 functions.php:175
+msgid "Appears on footer "
+msgstr "Появиться в подвале"
+
+#: functions.php:144
+msgid "Footer Navigation 1"
+msgstr "Навигация в подвале 1"
+
+#: functions.php:125
+msgid "Appears on page sidebar"
+msgstr "Появится в области виджетов страницы"
+
+#: functions.php:124
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: functions.php:115
+msgid "Appears on blog page sidebar"
+msgstr "Появится в области виджетов страницы блога"
+
+#: functions.php:114
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: image.php:32 image.php:57 image.php:81 image.php:105 image.php:131
+#: image.php:157 image.php:182 single.php:36 single.php:68 single.php:99
+#: single.php:130 single.php:163 single.php:196 single.php:228
+msgid "Page"
+msgstr "Страница"
+
+#: image.php:31 image.php:56 image.php:80 image.php:104 image.php:130
+#: image.php:156 image.php:181 single.php:35 single.php:67 single.php:98
+#: single.php:129 single.php:162 single.php:195 single.php:227
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: image.php:30 image.php:55 image.php:79 image.php:103 image.php:129
+#: image.php:155 image.php:180 single.php:34 single.php:66 single.php:97
+#: single.php:128 single.php:161 single.php:194 single.php:226
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: 404.php:17 inc/customizer.php:2137 no-results.php:22
+msgid "Back to Home Page"
+msgstr "Вернуться на главную страницу"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the theme
+#: functions.php:305
+#, gp-priority: low
+msgid "https://www.vwthemes.com/themes/wp-automobile-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/wp-automobile-wordpress-theme/"
